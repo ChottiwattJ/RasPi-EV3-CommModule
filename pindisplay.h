@@ -76,4 +76,4 @@ private:
     Ui::pinDisplay *ui;
 };
 
-#endif // PINDISPLAY_H
+#endif // PINDISPLAY_Header
